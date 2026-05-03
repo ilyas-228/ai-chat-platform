@@ -1,6 +1,5 @@
 {
   "buildCommand": "pnpm build",
-  "startCommand": "node dist/index.js",
   "outputDirectory": "dist",
   "framework": "other",
   "nodeVersion": "22.x"
